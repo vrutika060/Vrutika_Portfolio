@@ -1,40 +1,4 @@
 
-// import React from "react";
-// import Navbar from "./components/navbar";
-// import Home from "./components/Home";
-// import About from "./components/About";
-// import Skills from "./components/Skills";
-// import Projects from "./components/Projects";
-// import Contact from "./components/Contact";
-// function App() {
-//   return (
-//     <div >
-//       <div>
-//     <Navbar/>
-//     </div>
-//     <div>
-//     <Home/>
-//     </div>
-//    <div>
-//     <About/>
-//    </div>
-//    <div>
-//     <Skills/>
-//    </div>
-//    <div>
-//     <Projects/>
-//    </div>
-//    <div>
-//     <Contact/>
-//    </div>
-//     </div>
-    
-//   );
-// }
-
-// export default App;
-
-
 import React from "react";
 import './index.css';
 import Navbar from "./components/Navbar";
