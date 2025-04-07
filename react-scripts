@@ -1,0 +1,109 @@
+
+> portfolio@0.1.0 start
+> react-scripts start start
+
+Starting the development server...
+
+Compiled successfully!
+
+You can now view portfolio in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.162.2:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled [1m[32msuccessfully[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: Expected ',' or '}' after property value in JSON at position 451 (line 19 column 12)
+[1m[31mERROR[39m[22m in [1mModule [1m[31mnot found[39m[22m[1m: SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: Expected ',' or '}' after property value in JSON at position 451 (line 19 column 12)[39m[22m
+
+[1m[31mERROR[39m[22m in [1mModule [1m[31mnot found[39m[22m[1m: SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: Expected ',' or '}' after property value in JSON at position 451 (line 19 column 12)[39m[22m
+
+[1m[31mERROR[39m[22m in [1m[32mmain[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: Expected ',' or '}' after property value in JSON at position 451 (line 19 column 12)[39m[22m
+
+[1m[31mERROR[39m[22m in [1mModule [1m[31mnot found[39m[22m[1m: SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory description file): SyntaxError: Expected ',' or '}' after property value in JSON at position 451 (line 19 column 12)[39m[22m
+
+[1m[31mERROR[39m[22m in [1m  [1m[31mError[39m[22m[1m: Child compilation [1m[31mfailed[39m[22m[1m:
+  Module [1m[31mnot found[39m[22m[1m: SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio  \package.json (directory description file): SyntaxError: D:\vrutika_projects\V  rutika_Portfolio\portfolio\package.json (directory description file): SyntaxEr  ror: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory d  escription file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio  \package.json (directory description file): SyntaxError: D:\vrutika_projects\V  rutika_Portfolio\portfolio\package.json (directory description file): SyntaxEr  ror: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory d  escription file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio  \package.json (directory description file): SyntaxError: D:\vrutika_projects\V  rutika_Portfolio\portfolio\package.json (directory description file): SyntaxEr  ror: D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory d  escription file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio  \package.json (directory description file): SyntaxError: D:\vrutika_projects\V  rutika_Portfolio\portfolio\package.json (directory description file): SyntaxEr  ror: Expected ',' or '}' after property value in JSON at position 451 (line 19   column 12)
+  ModuleNotFoundError: Module [1m[31mnot found[39m[22m[1m: SyntaxError: D:\vrutika_projects\Vrutik  a_Portfolio\portfolio\package.json (directory description file): SyntaxError:   D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory descri  ption file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\pack  age.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutik  a_Portfolio\portfolio\package.json (directory description file): SyntaxError:   D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory descri  ption file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\pack  age.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutik  a_Portfolio\portfolio\package.json (directory description file): SyntaxError:   D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory descri  ption file): SyntaxError: D:\vrutika_projects\Vrutika_Portfolio\portfolio\pack  age.json (directory description file): SyntaxError: D:\vrutika_projects\Vrutik  a_Portfolio\portfolio\package.json (directory description file): SyntaxError:   D:\vrutika_projects\Vrutika_Portfolio\portfolio\package.json (directory descri  ption file): SyntaxError: Expected ',' or '}' after property value in JSON at   position 451 (line 19 column 12)
+      at D:\vrutika_projects\Vrutika_Portfolio\portfolio\node_modules\webpack\li  b\Compilation.js:2123:28
+      at D:\vrutika_projects\Vrutika_Portfolio\portfolio\node_modules\webpack\li  b\NormalModuleFactory.js:923:13
+      at eval (eval at create (D:\vrutika_projects\Vrutika_Portfolio\portfolio\n  ode_modules\tapable\lib\HookCodeFactory.js:33:10), <anonymous>:10:1)
+      at D:\vrutika_projects\Vrutika_Portfolio\portfolio\node_modules\webpack\li  b\NormalModuleFactory.js:339:22
+      at eval (eval at create (D:\vrutika_projects\Vrutika_Portfolio\portfolio\n  ode_modules\tapable\lib\HookCodeFactory.js:33:10), <anonymous>:9:1)
+      at D:\vrutika_projects\Vrutika_Portfolio\portfolio\node_modules\webpack\li  b\NormalModuleFactory.js:520:22
+      at D:\vrutika_projects\Vrutika_Portfolio\portfolio\node_modules\webpack\li  b\NormalModuleFactory.js:155:10
+      at D:\vrutika_projects\Vrutika_Portfolio\portfolio\node_modules\webpack\li  b\NormalModuleFactory.js:745:23
+      at D:\vrutika_projects\Vrutika_Portfolio\portfolio\node_modules\neo-async\  async.js:2830:7
+      at done (D:\vrutika_projects\Vrutika_Portfolio\portfolio\node_modules\neo-  async\async.js:2925:13)
+  
+  - Compilation.js:2123 
+    [portfolio]/[webpack]/lib/Compilation.js:2123:28
+  
+  - NormalModuleFactory.js:923 
+    [portfolio]/[webpack]/lib/NormalModuleFactory.js:923:13
+  
+  
+  - NormalModuleFactory.js:339 
+    [portfolio]/[webpack]/lib/NormalModuleFactory.js:339:22
+  
+  
+  - NormalModuleFactory.js:520 
+    [portfolio]/[webpack]/lib/NormalModuleFactory.js:520:22
+  
+  - NormalModuleFactory.js:155 
+    [portfolio]/[webpack]/lib/NormalModuleFactory.js:155:10
+  
+  - NormalModuleFactory.js:745 
+    [portfolio]/[webpack]/lib/NormalModuleFactory.js:745:23
+  
+  - async.js:2830 
+    [portfolio]/[neo-async]/async.js:2830:7
+  
+  - async.js:2925 done
+    [portfolio]/[neo-async]/async.js:2925:13
+  
+  - child-compiler.js:211 
+    [portfolio]/[html-webpack-plugin]/lib/child-compiler.js:211:18
+  
+  - Compiler.js:629 finalCallback
+    [portfolio]/[webpack]/lib/Compiler.js:629:5
+  
+  - Compiler.js:664 
+    [portfolio]/[webpack]/lib/Compiler.js:664:11
+  
+  - Compiler.js:1350 
+    [portfolio]/[webpack]/lib/Compiler.js:1350:17
+  
+  
+  - Hook.js:18 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [portfolio]/[tapable]/lib/Hook.js:18:14
+  
+  - Compiler.js:1346 
+    [portfolio]/[webpack]/lib/Compiler.js:1346:33
+  
+  - Compilation.js:2938 finalCallback
+    [portfolio]/[webpack]/lib/Compilation.js:2938:11
+  
+  - Compilation.js:3251 
+    [portfolio]/[webpack]/lib/Compilation.js:3251:11
+  
+  
+[39m[22m
+
+[1m[31m1 ERROR in child compilations (Use 'stats.children: true' resp. '--stats-children' for more details)[39m[22m
+webpack compiled with [1m[31m6 errors[39m[22m
+Compiling...
+Compiled successfully!
+webpack compiled [1m[32msuccessfully[39m[22m
+Compiling...
+Compiled successfully!
+webpack compiled [1m[32msuccessfully[39m[22m
+Compiling...
+Compiled successfully!
+webpack compiled [1m[32msuccessfully[39m[22m
