@@ -102,11 +102,11 @@ const Home = () => {
             <h2 className="text-lg font-semibold">Download file again?</h2>
             <p className="text-sm text-gray-600 mt-2">Do you want to download</p>
             <a
-              href="/Vrutika_Birje_Resume.pdf"
+              href="/Vrutika_Resume.pdf"
               download
               className="text-blue-600 hover:underline mt-1 block"
             >
-              Vrutika_Birje_Resume.pdf (157.56 KB) again?
+              Vrutika_Resume.pdf (157.56 KB) again?
             </a>
             <div className="flex justify-end mt-4">
               <button
@@ -116,7 +116,7 @@ const Home = () => {
                 Cancel
               </button>
               <a
-                href="/Vrutika_Birje_Resume.pdf"
+                href="/Vrutika_Resume.pdf"
                 download
                 className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
               >
